@@ -40,3 +40,4 @@ done
 
 # Print footer message
 ui_print "- By Tesla, Telegram: @T3SL4"
+ui_print "- Updated to July by Dan, Telegram: @DanCS1995"
